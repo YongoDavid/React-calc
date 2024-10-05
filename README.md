@@ -2,6 +2,7 @@
 in this react calculator i made use of the useContect.
 The useContext can also be called the contextAPI.
 
+Also i made use statemanagement likke redux.
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
