@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 in this react calculator i made use of the useContect.
-
+The useContext can also be called the contextAPI.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
