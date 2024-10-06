@@ -3,7 +3,7 @@ in this react calculator i made use of the useContect.
 The useContext can also be called the contextAPI.
 
 Also i made use statemanagement likke redux.
-this consists of using storage , actions , reducers , dispatch and selrctors.
+this consist ofu sing storage , actions , reducers , dispatch and selectors.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
